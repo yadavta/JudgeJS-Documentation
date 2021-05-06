@@ -1,0 +1,12 @@
+[book]
+authors = ["Tanush Yadav"]
+language = "en"
+multilingual = false
+src = "src"
+title = "JudgeJS Documentation"
+
+[rust]
+edition="2018"
+
+[output.html]
+default-theme = "navy"
